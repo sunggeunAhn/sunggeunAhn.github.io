@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts - about me</title>
+    <link>https://sunggeunAhn.github.io/posts/</link>
+    <description>Recent content in Posts on about me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 03 Oct 2019 13:09:28 +0900</lastBuildDate>
+    
+        <atom:link href="https://sunggeunAhn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://sunggeunAhn.github.io/posts/curriculum-vitae/</link>
+      <pubDate>Thu, 03 Oct 2019 13:09:28 +0900</pubDate>
+      
+      <guid>https://sunggeunAhn.github.io/posts/curriculum-vitae/</guid>
+      <description>Sunggeun Ahn | Ph.D Candidate HCI Lab @ School of Computing, KAIST Contact: topmaze@kaist.ac.kr
+Education  Korea Advanced Institute of Science and Technology (KAIST) | Daejeon, South Korea Ph.D Candidate in Computer Science, Advisor: Geehyuk Lee Mar. 2016 ~ present  
+Korea Advanced Institute of Science and Technology (KAIST) | Daejeon, South Korea M.S. in Computer Science. Advisor: Geehyuk Lee Thesis: &amp;ldquo;FourSides: an interaction technique utilizing the four sides of a smartwatch&amp;rdquo; Mar.</description>
+    </item>
+  </channel>
+</rss>
