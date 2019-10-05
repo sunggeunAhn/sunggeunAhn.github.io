@@ -1,0 +1,8 @@
+baseURL = "https://sunggeunAhn.github.io/"
+languageCode = "ko-kr"
+title = "about me"
+theme = "aether"
+
+[params]
+brand = "Sunggeun Ahn"
+description = "Hi."
